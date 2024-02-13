@@ -1,4 +1,4 @@
-# Gohetia_Gamborgi_midterm-exam
+# Gohetia / Menezes — Midterm Assignment
 This project was created for the Multimedia Authoring (MMED-1054) Midterm Exam, winter semester of 2024, taught by professor Marco de Luca. 
 
 It's main objective is to create a HTML page with a discussion between the two students, containing both points of view — at the end, students are required to merge the branches of their work into a final file, without conflicts. 
