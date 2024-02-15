@@ -118,7 +118,7 @@ main section h2 span {
   font-weight: 800;
   font-family: cursive;
   padding: 5px;
-  background-color:rgba(135, 6, 6, 0.75);
+  background-color: rgba(135, 6, 6, 0.75);
   color: rgb(255, 255, 255);
   margin-right: 15px;
 }
@@ -161,7 +161,8 @@ img {
   position: relative;
   margin: auto;
 }
-.prev, .next {
+.prev,
+.next {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -226,7 +227,7 @@ img {
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease
+  transition: background-color 0.6s ease;
 }
 .active,
 .dot:hover {
@@ -250,4 +251,9 @@ img {
   .text {
     font-size: 11px;
   }
+}
+.italic {
+  font-style: italic;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
