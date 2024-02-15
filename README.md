@@ -17,6 +17,18 @@ It's main objective is to create a HTML page with a discussion between the two s
 1. Download the folder on your device;
 2. Open the index.html file on your browser.
 
+## Process
+1. We started by defining our theme of discussion;
+2. We chose our anime characters;
+3. We made text content for each one of them, including skills and abilities;
+4. We updated as HTML in our index file;
+5. We kept updating and "attacking" for each of the 3 rounds;
+6. We added basic CSS to make tests;
+7. Sheldon added a JS for the Hero Slideshow;
+8. Each wrote their one decision in a different branch;
+9. We merged and obtained a conflict with the decision;
+10. We resolved the final decision conflict;
+
 ## Assignment History
 **You will be building a 1-page app.** Pick a subject that you can disagree with - both points of view should appear in the final submission. As an example, one person could argue that dogs are best, the other person could argue that in fact cats are WAY better than dogs. 
 
